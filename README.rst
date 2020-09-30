@@ -1,23 +1,23 @@
-django-ajax-search
+ # DJANGO-AJAX-Search
 ===================
 
-A customizable AJAX-powered search for Django.
+A customizable AJAX-powered search for Django : 
 
-Features
+# Important Features :
 -----------------------------------
 
 - Works with the latest jQuery library version
 - Displays instant search results as you type
 
 
-Installation Requirements
+# Requirements For Installation
 -----------------------------------
 
 - Python 2.6 or Python 2.7
 - `Django <http://www.djangoproject.com/>`_ >= 1.3
 - `jQuery <http://jquery.com/>`_ >= 1.4.4
 
-To install::
+Process to install::
     
     easy_install django-ajax-search
 
@@ -46,3 +46,4 @@ Additional Help/Support
 -----------------------------------
 
 You can find additional help or support on the mailing list: http://groups.google.com/group/django-ajax-search
+# Thanks For Visiting!
